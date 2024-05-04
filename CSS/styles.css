@@ -1,0 +1,68 @@
+html{
+    background-color: rgb(162, 154, 154);
+    width: 800px;
+    height: 600px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.inicio{
+    background-color: lightblue;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+.navegacion{
+    background-color: lightgreen;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.noticias{
+    background-color: lightyellow;
+    height: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.seccion_noticias{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.n_deporte{
+    background-color: coral;
+    margin-bottom: 10px;
+}
+
+.n_entretenimiento{
+    background-color:deeppink;
+    margin-bottom: 10px;
+
+}
+
+.barra_lateral{
+    background-color: lightpink;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.pie_pagina{
+    background-color: lightseagreen;
+    height: 50px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
